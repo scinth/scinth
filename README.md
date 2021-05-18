@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scinth a self taught programmer at heart.
-- 👀 I’m somehow interested in Front-end Web Development, Chess, Puzzles and a lot more...
+- 👀 I’m interested in Front-end Web Development, Chess, Puzzles and a lot more...
 - 🌱 For now I am learning some frameworks like React, Sass, and Typescript.
 
 <!---
