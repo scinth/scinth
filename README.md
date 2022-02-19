@@ -1,4 +1,8 @@
-# :wave: **Kumusta!, I'm <span style="color:darkorchid">Rodniel** :smile:
+# :wave: **Kumusta!, I'm <span style="color:darkorchid">Rodniel</span>** :smile:
+
+![Last Commit](https://img.shields.io/github/last-commit/scinth/scinth)
+
+<br>
 
 - A **chess** lover :heart:
 - A **coffe** addict :coffee:, and...
@@ -22,13 +26,7 @@ $git commit -m 'initial commit'
 
 <br>
 
-![Last Commit](https://img.shields.io/github/last-commit/scinth/scinth)
-
-<br>
-<hr>
-<br>
-
-## **<span style="color:peru">About Me** :sunglasses:
+## **<span style="color:peru">About Me</span>** :sunglasses:
 
 I am **passionate** about **Web Development**,
 **Chess**, and **Problem solving**. For now I'm busy working on my portfolio website.
@@ -39,44 +37,53 @@ I'm also teaching myself React frameworks like, **Redux**, **NextJS** and **Reac
 
 <br>
 
-## **<span style="color:mediumseagreen">Hey!, Get to know me**
+<!-- ## **<span style="color:mediumseagreen">Hey!, Get to know me at...</span>** -->
 
-<!-- [![portfolio](https://img.shields.io/badge/portfolio-peru?style=for-the-badge&logo=ko-fi&logoColor=white)](https://scinth.github.io/ 'my portfolio') -->
+<!-- [![portfolio](https://img.shields.io/badge/visit_my_portfolio-peru?style=for-the-badge&logo=ko-fi&logoColor=white)](https://scinth.github.io/ 'my portfolio') -->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0a63bc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodniel-b-a75bb7226/) &nbsp;
-[![Facebook](https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook&logoColor=1773ea)](https://www.facebook.com/profile.php/?id=100076113183013)
+[![LinkedIn](https://img.shields.io/badge/my_linkedin_account-0a63bc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodniel-b-a75bb7226/) &nbsp;
+[![Facebook](https://img.shields.io/badge/message_me_on_facebook-1773ea?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php/?id=100076113183013)
 
 <br>
 
-## **<span style="color:#21beb1">Projects Deployed on Netlify** :rocket:
+## **<span style="color:#21beb1">Projects Deployed on Netlify</span>** :rocket:
 
 1. [Simple Chess GUI](https://nielbrioneschessgui.netlify.app)
 2. [2048 Game](https://nielbriones2048.netlify.app)
 
+   _And a lot more in the future..._
+
 <br>
 
-## **<span style="color:dodgerblue">Coding Skills**
+## **<span style="color:dodgerblue">Coding Skills</span>**
 
 ### **_Languages_**
 
-![Html5](https://img.shields.io/badge/HTML5-dd4b25?style=flat&logo=html5&logoColor=white 'Hypertext Markup Language') &nbsp;
-![Css3](https://img.shields.io/badge/CSS3-026db9?style=flat&logo=css3&logoColor=white 'Cascading Style Sheet') &nbsp;
-![Es6](https://img.shields.io/badge/JavaScript-f7c427?style=flat&logo=javascript&logoColor=white 'JavaScript ES6')
+<br>
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" />
+
+<br>
 
 ### **_Frameworks, Libraries, etc..._**
 
-![Sass](https://img.shields.io/badge/Sass-c76494?style=flat&logo=sass&logoColor=white 'Syntactically Awesome Style Sheet') &nbsp;
-![React](https://img.shields.io/badge/React-5ed3f3?style=flat&logo=react&logoColor=white 'ReactJS') &nbsp;
-![Framer](https://img.shields.io/badge/Framer_Motion-a139cf?style=flat&logo=framer&logoColor=white 'Framer Motion') &nbsp;
-![Webpack](https://img.shields.io/badge/Webpack-8acff3?style=flat&logo=webpack&logoColor=white 'Webpack Module Bundler')
-
-<br>
-<hr>
 <br>
 
-That's all for now!
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" /> &nbsp;
 
-For any concerns please E-mail me at **rodnielbriones@gmail.com**
+<br>
+<br>
+
+For any concerns please email me at **rodnielbriones@gmail.com**
 
 Or you can call or message me with these mobile numbers:
 
@@ -85,4 +92,4 @@ Or you can call or message me with these mobile numbers:
 
 <br>
 
-**_Thank You!_**
+That's all for now, **_Have a nice day!_** :smile:
