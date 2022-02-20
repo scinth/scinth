@@ -1,24 +1,18 @@
-# :wave: **Kumusta!, I'm <span style="color:darkorchid">Rodniel</span>** :smile:
-
-![Last Commit](https://img.shields.io/github/last-commit/scinth/scinth)
+# :wave: **Kumusta!, I'm Rodniel**
 
 <br>
 
 - A **chess** lover :heart:
 - A **coffe** addict :coffee:, and...
-- A late-bloomer introvert who dreams to become a **Fullstack Web Developer!** :keyboard:
+- A late-bloomer introvert who dreams to become a **Fullstack Web Developer!**
 
 <br>
 
-_Zodiac Sign:_ **:virgo: Virgo "The Virgin"**
-
-<br>
-
-_Most used command:_
-
-```bash
-$git commit -m 'initial commit'
-```
+- _Zodiac Sign:_ **:virgo: Virgo "The Virgin"**
+- _Most used command:_
+  ```bash
+  $git commit -m 'initial commit'
+  ```
 
 <br>
 
@@ -26,18 +20,16 @@ $git commit -m 'initial commit'
 
 <br>
 
-## **<span style="color:peru">About Me</span>** :sunglasses:
+# **About Me** :sunglasses:
 
-I am **passionate** about **Web Development**,
-**Chess**, and **Problem solving**. For now I'm busy working on my portfolio website.
+I am passionate about **Web Development**,
+**Chess**, **Problem solving** and a lot more. For now I'm busy working on my portfolio website.
 
 I'm also teaching myself React frameworks like, **Redux**, **NextJS** and **React Testing Library**. And I'm currently looking for a junior level front-end development job.
 
 <!-- Here's the link to [my resume](#). -->
 
 <br>
-
-<!-- ## **<span style="color:mediumseagreen">Hey!, Get to know me at...</span>** -->
 
 <!-- [![portfolio](https://img.shields.io/badge/visit_my_portfolio-peru?style=for-the-badge&logo=ko-fi&logoColor=white)](https://scinth.github.io/ 'my portfolio') -->
 
@@ -46,18 +38,18 @@ I'm also teaching myself React frameworks like, **Redux**, **NextJS** and **Reac
 
 <br>
 
-## **<span style="color:#21beb1">Projects Deployed on Netlify</span>** :rocket:
+# **Projects Deployed on Netlify** :rocket:
 
 1. [Simple Chess GUI](https://nielbrioneschessgui.netlify.app)
 2. [2048 Game](https://nielbriones2048.netlify.app)
 
-   _And a lot more in the future..._
+   _:sweat_smile: And a lot more in the future..._
 
 <br>
 
-## **<span style="color:dodgerblue">Coding Skills</span>**
+# **Coding Skills**
 
-### **_Languages_**
+## **_Languages_**
 
 <br>
 
@@ -67,7 +59,7 @@ I'm also teaching myself React frameworks like, **Redux**, **NextJS** and **Reac
 
 <br>
 
-### **_Frameworks, Libraries, etc..._**
+## **_Frameworks, Libraries, etc..._**
 
 <br>
 
@@ -80,15 +72,14 @@ I'm also teaching myself React frameworks like, **Redux**, **NextJS** and **Reac
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" /> &nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" /> &nbsp;
 
-<br>
-<br>
+<br><br>
 
 For any concerns please email me at **rodnielbriones@gmail.com**
 
 Or you can call or message me with these mobile numbers:
 
-- _Globe Telecom_: +63 915 666 3820
-- _DITO_: +63 991 473 3933
+- _Globe_: **+63 915 666 3820**
+- _DITO_: **+63 991 473 3933**
 
 <br>
 
