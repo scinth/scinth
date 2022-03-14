@@ -1,17 +1,21 @@
-# :wave: **Kumusta!, I'm Rodniel**
+![profile banner](github_profile_banner_2022.png)
 
 <br>
 
-- A **chess** lover :heart:
-- A **coffe** addict :coffee:, and...
+# **Kumusta!, I'm Rodniel** :wave:
+
+<br>
+
+- :heart: A **chess** lover
+- :coffee: A **coffee** addict, and...
 - A late-bloomer introvert who dreams to become a **Fullstack Web Developer!**
 
 <br>
 
-- _Zodiac Sign:_ **:virgo: Virgo "The Virgin"**
+- _Zodiac sign:_ **:virgo: Virgo "The Virgin"**
 - _Most used command:_
   ```bash
-  $git commit -m 'initial commit'
+  $ git commit -m 'initial commit'
   ```
 
 <br>
@@ -59,18 +63,19 @@ I'm also teaching myself React frameworks like, **Redux**, **NextJS** and **Reac
 
 <br>
 
-## **_Frameworks, Libraries, etc..._**
+## **_Frameworks, Libraries, Tools etc..._**
 
 <br>
 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" /> &nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" /> &nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" /> &nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" /> &nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" /> &nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" /> &nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" />
 
 <br><br>
 
