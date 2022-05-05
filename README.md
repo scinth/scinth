@@ -1,6 +1,5 @@
 ![profile banner](github_profile_banner_2022.png)
-
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=scinth&color=blueviolet&style=for-the-badge)
 
 # **Kumusta!, I'm Rodniel** :wave:
 
@@ -13,7 +12,7 @@
 <br>
 
 - _Zodiac sign:_ **:virgo: Virgo "The Virgin"**
-- _Most used command:_
+- _Favorite command:_
   ```bash
   $ git commit -m 'initial commit'
   ```
@@ -29,7 +28,7 @@
 I am passionate about **Web Development**,
 **Chess**, **Problem solving** and a lot more. For now I'm busy working on my portfolio website.
 
-I'm also teaching myself React frameworks like, **Redux**, **NextJS** and **React Testing Library**. And I'm currently looking for a junior level front-end development job.
+I'm also teaching myself **React**, and frameworks/libraries like, **Redux**, **NextJS** and **React Testing Library**.
 
 <!-- Here's the link to [my resume](#). -->
 
@@ -80,11 +79,6 @@ I'm also teaching myself React frameworks like, **Redux**, **NextJS** and **Reac
 <br><br>
 
 For any concerns please email me at **rodnielbriones@gmail.com**
-
-Or you can call or message me with these mobile numbers:
-
-- _Globe_: **+63 915 666 3820**
-- _DITO_: **+63 991 473 3933**
 
 <br>
 
