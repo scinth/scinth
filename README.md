@@ -1,85 +1,84 @@
-![profile banner](github_profile_banner_2022.png)
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=scinth&color=blueviolet&style=for-the-badge)
+<br><br><br>
+<img src="github_profile_banner_2022.png" alt="Scinth Profile Banner" width="600px" />
+<img src="https://github-readme-stats.vercel.app/api?username=scinth&hide_title=true&title_color=ff0&icon_color=ff0&text_color=fff&bg_color=-30%,761dfc,e30aff&hide=stars&show_icons=true&include_all_commits=true&border_radius=0&hide_border=true" alt="Scinth's Github Stats" width="600px" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![react router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![bash](https://img.shields.io/badge/Bash-888888?style=flat&logo=GNU%20Bash&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![visual studio code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![mdn web docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat&logo=mdnwebdocs&logoColor=white)
+![stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
+![spotify](https://img.shields.io/badge/Compressed_FM-1ED760?&style=flat&logo=spotify&logoColor=white)
+
+</div>
 
 # **Kumusta!, I'm Rodniel** :wave:
 
 <br>
 
-- :heart: A **chess** lover
-- :coffee: A **coffee** addict, and...
-- A late-bloomer introvert who dreams to become a **Fullstack Web Developer!**
+- :keyboard: : A **self-taught** junior dev,
+- :heart: : A **chess** lover,
+- :coffee: : A **coffee** addict, and...
+- :grin: : A late-bloomer introvert who dreams to become a **Fullstack Web Developer!**
+
+I am passionate about **Programming**,
+**Chess**, **Problem solving** and a lot more.
+I'm currently teaching myself **React**, and frameworks/libraries like **Redux**, **NextJS**, and **React Testing Library**.
+For now I'm focusing on harnessing my skills to land my first job as a Frontend Developer. Wish me luck!
 
 <br>
 
-- _Zodiac sign:_ **:virgo: Virgo "The Virgin"**
-- _Favorite command:_
-  ```bash
-  $ git commit -m 'initial commit'
-  ```
-
-<br>
-
-> **Quote:**<br>_"Do not follow the right path, follow your own path and make it right."_
-
-<br>
-
-# **About Me** :sunglasses:
-
-I am passionate about **Web Development**,
-**Chess**, **Problem solving** and a lot more. For now I'm busy working on my portfolio website.
-
-I'm also teaching myself **React**, and frameworks/libraries like, **Redux**, **NextJS** and **React Testing Library**.
-
-<!-- Here's the link to [my resume](#). -->
-
-<br>
-
-<!-- [![portfolio](https://img.shields.io/badge/visit_my_portfolio-peru?style=for-the-badge&logo=ko-fi&logoColor=white)](https://scinth.github.io/ 'my portfolio') -->
-
-[![LinkedIn](https://img.shields.io/badge/my_linkedin_account-0a63bc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodniel-b-a75bb7226/) &nbsp;
-[![Facebook](https://img.shields.io/badge/message_me_on_facebook-1773ea?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php/?id=100076113183013)
+[![LinkedIn](https://img.shields.io/badge/my_linkedin_account-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodniel-b-a75bb7226/)<br/>
+[![Facebook](https://img.shields.io/badge/message_me_on_facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php/?id=100076113183013)<br/>
+[![Gmail](https://img.shields.io/badge/send_me_an_email-f14336?style=for-the-badge&logo=gmail&logoColor=white)](rodnielbriones@gmail.com)
 
 <br>
 
 # **Projects Deployed on Netlify** :rocket:
 
-1. [Simple Chess GUI](https://nielbrioneschessgui.netlify.app)
-2. [2048 Game](https://nielbriones2048.netlify.app)
+1. [Simple Chess GUI](https://nielbrioneschessgui.netlify.app 'A fully-fuctional chess interface with animations')
+1. [2048 Game](https://nielbriones2048.netlify.app 'A dark-themed number-matching puzzle game')
+1. And a lot more in the future :sweatsmile:
 
-   _:sweat_smile: And a lot more in the future..._
-
-<br>
-
-# **Coding Skills**
-
-## **_Languages_**
+---
 
 <br>
 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" /> &nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" /> &nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scinth&theme=tokyonight" alt="Top languages by repo" width="293px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scinth&theme=tokyonight" alt="Top languages by commit" width="293px" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scinth&theme=tokyonight&bg_color=ffffff" alt="Profile Summary" width="600px" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scinth&theme=tokyonight&utcOffset=8" alt="Commits" width="600px" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scinth&theme=tokyonight" alt="Streak stats" width="600px" />
 
-<br>
+<br><br><br>
 
-## **_Frameworks, Libraries, Tools etc..._**
+> **Quote:**<br>_"Do not follow the right path, follow your own path and make it right."_
 
-<br>
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" /> &nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" /> &nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" /> &nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" /> &nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" /> &nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" /> &nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" /> &nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" /> &nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" />
-
-<br><br>
-
-For any concerns please email me at **rodnielbriones@gmail.com**
-
-<br>
-
-That's all for now, **_Have a nice day!_** :smile:
+</div>
