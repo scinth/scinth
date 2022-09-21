@@ -1,7 +1,5 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=scinth&color=blueviolet&style=for-the-badge)
-<br><br><br>
 <img src="github_profile_banner_2022.png" alt="Scinth Profile Banner" width="600px" />
 <img src="https://github-readme-stats.vercel.app/api?username=scinth&hide_title=true&title_color=ff0&icon_color=ff0&text_color=fff&bg_color=-30%,761dfc,e30aff&hide=stars&show_icons=true&include_all_commits=true&border_radius=0&hide_border=true" alt="Scinth's Github Stats" width="600px" />
 
@@ -15,6 +13,7 @@
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![green sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![react router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
@@ -31,7 +30,7 @@
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![mdn web docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat&logo=mdnwebdocs&logoColor=white)
 ![stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
-![spotify](https://img.shields.io/badge/Compressed_FM-1ED760?&style=flat&logo=spotify&logoColor=white)
+![spotify](https://img.shields.io/badge/CompressedFM-1ED760?&style=flat&logo=spotify&logoColor=white)
 
 </div>
 
@@ -39,29 +38,29 @@
 
 <br>
 
-- :keyboard: : A **self-taught** junior dev,
-- :heart: : A **chess** lover,
-- :coffee: : A **coffee** addict, and...
+- :keyboard: : **Self-taught** programmer
+- :computer: : **Javascript** and **VSCode** fan
+- :heart: : **Chess** lover
+- :coffee: : **Coffee** addict, and...
 - :grin: : A late-bloomer introvert who dreams to become a **Fullstack Web Developer!**
 
-I am passionate about **Programming**,
-**Chess**, **Problem solving** and a lot more.
-I'm currently teaching myself **React**, and frameworks/libraries like **Redux**, **NextJS**, and **React Testing Library**.
-For now I'm focusing on harnessing my skills to land my first job as a Frontend Developer. Wish me luck!
+I am passionate about **Programming**, **Chess**, **Problem solving** and other similar subjects. An undergraduate IT student and was teaching myself using online resources like [MDN Web Docs](https://developer.mozilla.org/en-US/), [Stack Overflow](https://stackoverflow.com), Youtube tutorials and more...
+I love solving coding problems with Javascript, and is determined to become an expert in this field.
 
 <br>
 
+[![Kofi](https://img.shields.io/badge/my_portfolio_website-peru?style=for-the-badge&logo=kofi&logoColor=white)](https://scinth.github.io)<br />
 [![LinkedIn](https://img.shields.io/badge/my_linkedin_account-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodniel-b-a75bb7226/)<br/>
 [![Facebook](https://img.shields.io/badge/message_me_on_facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php/?id=100076113183013)<br/>
 [![Gmail](https://img.shields.io/badge/send_me_an_email-f14336?style=for-the-badge&logo=gmail&logoColor=white)](rodnielbriones@gmail.com)
 
 <br>
 
-# **Projects Deployed on Netlify** :rocket:
+### **Projects Deployed on Netlify** :rocket:
 
-1. [Simple Chess GUI](https://nielbrioneschessgui.netlify.app 'A fully-fuctional chess interface with animations')
 1. [2048 Game](https://nielbriones2048.netlify.app 'A dark-themed number-matching puzzle game')
-1. And a lot more in the future :sweatsmile:
+1. [Chess GUI](https://nielbrioneschessgui.netlify.app 'A fully-functional interface for loading and generating chess game files')
+1. [Hearts Game](https://nielbrioneshearts.netlify.app 'A 4-player card game made with React & Redux')
 
 ---
 
