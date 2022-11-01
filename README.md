@@ -49,7 +49,7 @@ I love solving coding problems with Javascript, and is determined to become an e
 
 <br>
 
-[![Kofi](https://img.shields.io/badge/my_portfolio_website-peru?style=for-the-badge&logo=kofi&logoColor=white)](https://scinth.github.io)<br />
+[![Kofi](https://img.shields.io/badge/my_portfolio_website-peru?style=for-the-badge&logo=kofi&logoColor=white)](https://scinth.github.io/portfolio)<br />
 [![LinkedIn](https://img.shields.io/badge/my_linkedin_account-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodniel-b-a75bb7226/)<br/>
 [![Facebook](https://img.shields.io/badge/message_me_on_facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php/?id=100076113183013)<br/>
 [![Gmail](https://img.shields.io/badge/send_me_an_email-f14336?style=for-the-badge&logo=gmail&logoColor=white)](rodnielbriones@gmail.com)
