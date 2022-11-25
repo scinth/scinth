@@ -45,7 +45,7 @@
 - :grin: : A late-bloomer introvert who dreams to become a **Fullstack Web Developer!**
 
 I am passionate about **Programming**, **Chess**, **Problem solving** and other similar subjects. An undergraduate IT student and was teaching myself using online resources like [MDN Web Docs](https://developer.mozilla.org/en-US/), [Stack Overflow](https://stackoverflow.com), Youtube tutorials and more...
-I love solving coding problems with Javascript, and is determined to become an expert in this field.
+I love solving coding problems with JavaScript, and is determined to become an expert in this field.
 
 <br>
 
@@ -53,16 +53,6 @@ I love solving coding problems with Javascript, and is determined to become an e
 [![LinkedIn](https://img.shields.io/badge/my_linkedin_account-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodniel-b-a75bb7226/)<br/>
 [![Facebook](https://img.shields.io/badge/message_me_on_facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php/?id=100076113183013)<br/>
 [![Gmail](https://img.shields.io/badge/send_me_an_email-f14336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodnielbriones@gmail.com)
-
-<br>
-
-### **Projects Deployed on Netlify** :rocket:
-
-1. [2048 Game](https://nielbriones2048.netlify.app 'A dark-themed number-matching puzzle game')
-1. [Chess GUI](https://nielbrioneschessgui.netlify.app 'A fully-functional interface for loading and generating chess game files')
-1. [Hearts Game](https://nielbrioneshearts.netlify.app 'A 4-player card game made with React & Redux')
-
----
 
 <br>
 
